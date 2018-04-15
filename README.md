@@ -1,0 +1,2 @@
+# springDataRedisForRedisCluster
+spring-data-redis整合redis操作集群
